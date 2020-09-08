@@ -44,7 +44,7 @@ Total number of rows and columns : (6745,6)
 
 * Number of ride request in each time slot
 
-![](https://github.com/Noopuragr/Uber_Case_Study/blob/master/img8.png).
+![](https://github.com/Noopuragr/Uber_Case_Study/blob/master/img8.PNG).
 
 * Status of trips in each time slot
 
