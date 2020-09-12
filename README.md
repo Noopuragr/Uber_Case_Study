@@ -36,11 +36,7 @@ Total number of rows and columns : (6745,6)
 
 * When pick-up point is Airpot
 
-![](https://github.com/Noopuragr/Uber_Case_Study/blob/master/img4.png).
 
-![](https://github.com/Noopuragr/Uber_Case_Study/blob/master/img5.png).
-
-![](https://github.com/Noopuragr/Uber_Case_Study/blob/master/img6.png).
 
 * Number of ride request in each time slot
 
